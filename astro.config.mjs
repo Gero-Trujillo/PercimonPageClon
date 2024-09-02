@@ -6,7 +6,7 @@ import react from '@astrojs/react';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://gero-trujillo.github.io',
+  site: 'https://Gero-Trujillo.github.io',
   base: '/PercimonPageClon',
   integrations: [tailwind(), react()]
 });
